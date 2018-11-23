@@ -2,6 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Nightly lineage-15.1
+james userdebug lineage-15.1 N
 albus userdebug lineage-15.1 N
 angler userdebug lineage-15.1 N
 axon7 userdebug lineage-15.1 N
